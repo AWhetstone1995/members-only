@@ -1,24 +1,11 @@
 # README
+# Members Only
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a private forum app that allows users to sign up and create posts within the database using PostGRESQL
 
-Things you may want to cover:
+Only authorized users are able to see authors of user posts. Otherwise, guest users can only see the content of posts but not who authored them.
 
-* Ruby version
+This is done to spec according to the Ruby on Rails path on The Odin Project: 
+https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby-on-rails
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+To run this application, you can find it deployed on Heroku here: https://shrouded-crag-98654.herokuapp.com/
