@@ -1,4 +1,3 @@
-# README
 # Members Only
 
 This is a private forum app that allows users to sign up and create posts within the database using PostGRESQL
